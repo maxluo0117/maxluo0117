@@ -63,10 +63,12 @@ I received my bachelor's degree from the
 - Chinese (Native)
 - English (Academic)
 - Japanese (JLPT N2)
-- Vietnamese (out of interest, and I'm still learning.)
-- Korean (learn from K-POP)
+- Vietnamese (still learning)
+- Korean (some greetings)
+- French (some greetings)
 - Chongqing and Guiyang dialect (Native)
 ---
+
 
 ## 📫 Contact
 - E-mail: s2630175@u.tsukuba.ac.jp
