@@ -1,4 +1,4 @@
-# Hi there 👋
+# 你好！こんにちは！ 👋
 
 I'm **Linyan Luo**, 1st-year PhD student at the  
 [Urban and Spatial Sciences Research Lab](https://www.risk.tsukuba.ac.jp/~ussrl/public_html/),  
