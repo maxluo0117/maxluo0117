@@ -71,4 +71,4 @@ I received my bachelor's degree from the
 
 
 ## 📫 Contact
-- E-mail: s2630175@u.tsukuba.ac.jp
+- E-mail: s2630175@u.tsukuba.ac.jp, MaxineLuo0117@outlook.com
