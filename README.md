@@ -27,9 +27,9 @@ I received my bachelor's degree from the
 - **Tsukuba Scholarship Award**  
   University of Tsukuba, 2026
 
-- **International conference oral presentation**
-  Linyan Luo and Tsutomu Suzuki,
-  *Comparative analysis of transport intervention outcomes across cities with different topography and urban conditions*,
+- **Peer-reviewed International conference oral presentation**  
+  Linyan Luo and Tsutomu Suzuki,  
+  *Comparative analysis of transport intervention outcomes across cities with different topography and urban conditions*,  
   JpGU-AGU 2026, Chiba, Japan, May. 27, 2026
 
 ### 2025
