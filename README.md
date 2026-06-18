@@ -77,6 +77,15 @@ I received my bachelor's degree from the
 - Chongqing and Guiyang dialect (Native)
 ---
 
+## 💡Hobby
+- Music🎵
+- Walk🚶‍
+- Cook🍳
+- Movie🎦
+---
 
 ## 📫 Contact
 - E-mail: s2630175@u.tsukuba.ac.jp, MaxineLuo0117@outlook.com
+- WeChat: MaxMaxLuo
+- Line: maxmaxluo
+
