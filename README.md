@@ -32,6 +32,9 @@ I received my bachelor's degree from the
   *Comparative analysis of transport intervention outcomes across cities with different topography and urban conditions*,  
   JpGU-AGU 2026, Chiba, Japan, May. 27, 2026
 
+- **2026年度中川育英会奨学金**  
+  中川育英会, 2026
+
 ### 2025
 - **Best Paper Award (Peer-reviewed International Conference)**  
   Linyan Luo and Tsutomu Suzuki,  
