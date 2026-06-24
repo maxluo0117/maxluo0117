@@ -11,10 +11,10 @@ I received my bachelor's degree from the
 ---
 
 ## 🔬 Research Interests
-- GeoAI
-- Spatial modelling
+- [GeoAI](https://www.esri.com/ja-jp/capabilities/geoai/overview)
+- [Spatial modelling](https://support.esri.com/en-us/gis-dictionary/spatial-modeling)
 - Machine learning
-- Resilient urban planning
+- Urban planning
 
 ---
 
@@ -78,10 +78,10 @@ I received my bachelor's degree from the
 ---
 
 ## 💡Hobby
-- Music🎵
-- Walk🚶‍
+- Music🎵 (Piano and Bass, sometimes compose)
+- Walk🚶‍ 
 - Cook🍳
-- Movie🎦
+- Movie🎦(The Shawshank Redemption, The Legend of 1900, The Before Trilogy, Fried Green Tomatoes, Dead Poets Society, Hana and Alice, Yiyiなど）
 ---
 
 ## 📫 Contact
