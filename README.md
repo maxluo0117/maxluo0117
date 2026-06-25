@@ -81,7 +81,7 @@ I received my bachelor's degree from the
 - Music🎵 (Piano and Bass, sometimes compose)
 - Walk🚶‍ 
 - Cook🍳
-- Movie🎦(The Shawshank Redemption, The Legend of 1900, The Before Trilogy, Fried Green Tomatoes, Dead Poets Society, Hana and Alice, Yiyiなど）
+- Movie🎦(The Shawshank Redemption, The Legend of 1900, The Before Trilogy, Fried Green Tomatoes, Dead Poets Society, Hana and Alice, Yiyi, LaLa Land）
 ---
 
 ## 📫 Contact
