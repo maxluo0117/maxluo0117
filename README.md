@@ -13,6 +13,7 @@ I received my bachelor's degree from the
 ## 🔬 Research Interests
 - [GeoAI](https://www.esri.com/ja-jp/capabilities/geoai/overview)
 - [Spatial modelling](https://support.esri.com/en-us/gis-dictionary/spatial-modeling)
+- [Spatial data mining](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/spatial-data-mining)
 - Machine learning
 - Urban planning
 
@@ -78,14 +79,15 @@ I received my bachelor's degree from the
 ---
 
 ## 💡Hobby
-- Music🎵 (Piano and Bass, sometimes compose)
+- Music🎵 (Piano and Bass)
 - Walk🚶‍ 
-- Cook🍳
+- Cook🍳 (I like spicy!)
 - Movie🎦(The Shawshank Redemption, The Legend of 1900, The Before Trilogy, Fried Green Tomatoes, Dead Poets Society, Hana and Alice, Yiyi, LaLa Land）
 ---
 
 ## 📫 Contact
-- E-mail: s2630175@u.tsukuba.ac.jp, MaxineLuo0117@outlook.com
+- E-mail: s2630175@u.tsukuba.ac.jp
 - WeChat: MaxMaxLuo
 - Line: maxmaxluo
+- Facebook: [https://www.facebook.com/](https://www.facebook.com/profile.php?id=61590228686828)
 
