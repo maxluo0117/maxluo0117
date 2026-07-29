@@ -72,7 +72,7 @@ I received my bachelor's degree from the
 - Chinese (Native)
 - English (Academic)
 - Japanese (JLPT N2)
-- Vietnamese (still learning)
+- Vietnamese (some greetings)
 - Korean (some greetings)
 - French (some greetings)
 - Chongqing and Guiyang dialect (Native)
