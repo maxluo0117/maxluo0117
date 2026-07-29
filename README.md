@@ -89,5 +89,5 @@ I received my bachelor's degree from the
 - E-mail: s2630175@u.tsukuba.ac.jp
 - WeChat: MaxMaxLuo
 - Line: maxmaxluo
-- Facebook: [https://www.facebook.com/](https://www.facebook.com/profile.php?id=61590228686828)
+- Facebook: Linyan Luo
 
