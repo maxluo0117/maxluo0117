@@ -15,7 +15,6 @@ I received my bachelor's degree from the
 - [Spatial modelling](https://support.esri.com/en-us/gis-dictionary/spatial-modeling)
 - [Spatial data mining](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/spatial-data-mining)
 - Machine learning
-- Urban planning
 
 ---
 
@@ -58,13 +57,34 @@ I received my bachelor's degree from the
 ---
 
 ## 🛠 Skills
+
 ### GIS & Spatial Analysis
-- [GeoPandas](https://geopandas.org/en/stable/)
-- [ArcPy](https://pro.arcgis.com/en/pro-app/3.4/arcpy/get-started/what-is-arcpy-.htm)
-- [Folium](https://python-visualization.github.io/folium/latest/)
-- QGIS & ArcGIS Pro
-- [Rasterio](https://rasterio.readthedocs.io/en/stable/)
-- [osmnx](https://osmnx.readthedocs.io/en/stable/) 
+- **Python GIS:** [GeoPandas](https://geopandas.org/en/stable/), [Rasterio](https://rasterio.readthedocs.io/en/stable/), [OSMnx](https://osmnx.readthedocs.io/en/stable/), Shapely
+- **Desktop GIS:** ArcGIS Pro, QGIS
+- **ArcGIS Automation:** [ArcPy](https://pro.arcgis.com/en/pro-app/latest/arcpy/get-started/what-is-arcpy-.htm), Network Analyst, OD Cost Matrix automation
+- **Spatial Data Processing:** raster-vector conversion, spatial joins, clipping, centroid matching, road-network density calculation
+- **Large-scale GIS Workflows:** multi-city batch processing, bounding-box filtering, memory-efficient vector processing
+- **Web Mapping:** [Folium](https://python-visualization.github.io/folium/latest/)
+
+### Spatial Modeling & Urban Analytics
+- Geographically Weighted Random Forest (GWRF)
+- Spatial heterogeneity and local model diagnostics
+- Counterfactual policy scenario simulation
+- Transit accessibility and multi-modal network analysis
+- Spatial downscaling and proxy-based spatial allocation
+
+### Machine Learning & Data Analysis
+- XGBoost
+- RandomForest
+- scikit-learn
+- Nearest-neighbor matching
+- Feature engineering for spatial and sequential data
+- Pandas / NumPy
+
+### Development Environment
+- Python
+- R
+- WSL2 / Linux
 
 ---
 
@@ -79,10 +99,10 @@ I received my bachelor's degree from the
 ---
 
 ## 💡Hobby
-- Music🎵 (Piano and Bass)
+- Music🎵 (Piano and Bass, indie rock band, Jazz)
 - Walk🚶‍ 
 - Cook🍳 (I like spicy!)
-- Movie🎦(The Shawshank Redemption, The Legend of 1900, The Before Trilogy, Fried Green Tomatoes, Dead Poets Society, Hana and Alice, Yiyi, LaLa Land）
+- Movie🎦
 ---
 
 ## 📫 Contact
