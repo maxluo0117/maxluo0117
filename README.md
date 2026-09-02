@@ -11,10 +11,11 @@ I received my bachelor's degree from the
 ---
 
 ## 🔬 Research Interests
-- [GeoAI](https://www.esri.com/ja-jp/capabilities/geoai/overview)
-- [Spatial modelling](https://support.esri.com/en-us/gis-dictionary/spatial-modeling)
-- [Spatial data mining](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/spatial-data-mining)
-- Machine learning
+- **GeoAI & Machine Learning**
+- **Spatial Modeling & Spatial Data Science**
+- **Remote Sensing & Earth Observation**
+- **Urban & Transport Analytics**
+- **Causal Inference & Counterfactual Simulation**
 
 ---
 
@@ -59,6 +60,9 @@ I received my bachelor's degree from the
 ## 🛠 Skills
 
 ### GIS & Spatial Analysis
+- **Satellite-derived Urban Indicators:** building footprints, nighttime lights, vegetation/green coverage
+- **Raster Processing:** clipping, reprojection, resampling, mosaicking, raster-vector conversion
+- **Geospatial Data Integration:** satellite, population, transport, land-use, and socioeconomic data
 - **Python GIS:** [GeoPandas](https://geopandas.org/en/stable/), [Rasterio](https://rasterio.readthedocs.io/en/stable/), [OSMnx](https://osmnx.readthedocs.io/en/stable/), Shapely
 - **Desktop GIS:** ArcGIS Pro, QGIS
 - **ArcGIS Automation:** [ArcPy](https://pro.arcgis.com/en/pro-app/latest/arcpy/get-started/what-is-arcpy-.htm), Network Analyst, OD Cost Matrix automation
