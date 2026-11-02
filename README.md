@@ -36,6 +36,12 @@ I received my bachelor's degree from the
 - **2026年度中川育英会奨学金**  
   中川育英会, 2026
 
+- **Domestic Conference Poster Presentation**  
+  Linyan Luo and Tsutomu Suzuki，  
+  「Shared Mechanisms of High Accessibility and Economic Activity for Low Carbon Outcomes Across Cities with Diverse Physical Environments and Urban Forms」  
+  第35回 地理情報システム学会 学術研究発表大会(GISA)およびInternational Association of Geo-informatics (IAG'i) 2026，東京科学大学大岡山キャンパス，2026年11月1日
+  
+
 ### 2025
 - **Best Paper Award (Peer-reviewed International Conference)**  
   Linyan Luo and Tsutomu Suzuki,  
